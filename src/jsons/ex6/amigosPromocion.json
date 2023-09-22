@@ -1,0 +1,173 @@
+[
+    {
+        "nombre": "OMAR",
+        "apellido": "TOLOSA",
+        "edad": 38,
+        "juiciosGanados": 16,
+        "juiciosParticipados": 28,
+        "notaria": "NOTARIA OMEGA",
+        "tipo": "ABOGADO"
+    },
+    {
+        "nombre": "ROSALVA",
+        "apellido": "COROMINAS",
+        "edad": 27,
+        "pacientesSinCaries": 10,
+        "totalPacientes": 29,
+        "consultorio": "CENTRO DENTAL REYDENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "SELENA",
+        "apellido": "ARNAIZ",
+        "edad": 40,
+        "edificiosConstruidos": 10,
+        "edificiosPlanificados": 30,
+        "constructora": "CONSTRUCTORA ARISTOTELES",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "OFELIA",
+        "apellido": "CABEZAS",
+        "edad": 31,
+        "pacientesSinCaries": 10,
+        "totalPacientes": 27,
+        "consultorio": "CENTRO DENTAL MARIDENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "LOLA",
+        "apellido": "SALCEDO",
+        "edad": 25,
+        "edificiosConstruidos": 5,
+        "edificiosPlanificados": 31,
+        "constructora": "CONSTRUCTORA LUZ ROJA",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "EMELINA",
+        "apellido": "VAQUERO",
+        "edad": 33,
+        "edificiosConstruidos": 14,
+        "edificiosPlanificados": 25,
+        "constructora": "CONSTRUCTORA ARISTOTELES",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "LORENZO",
+        "apellido": "REYES",
+        "edad": 25,
+        "edificiosConstruidos": 14,
+        "edificiosPlanificados": 33,
+        "constructora": "CONSTRUCTORA LAPIZLAZULI",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "MONICA",
+        "apellido": "GALLO",
+        "edad": 29,
+        "juiciosGanados": 7,
+        "juiciosParticipados": 25,
+        "notaria": "NOTARIA GOMEZ",
+        "tipo": "ABOGADO"
+    },
+    {
+        "nombre": "AUREA",
+        "apellido": "VICENS",
+        "edad": 35,
+        "edificiosConstruidos": 14,
+        "edificiosPlanificados": 27,
+        "constructora": "CONSTRUCTORA LAPIZLAZULI",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "ELBA",
+        "apellido": "SEVILLANO",
+        "edad": 38,
+        "edificiosConstruidos": 16,
+        "edificiosPlanificados": 33,
+        "constructora": "CONSTRUCTORA LUZ ROJA",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "DUILIO",
+        "apellido": "ARIZA",
+        "edad": 34,
+        "pacientesSinCaries": 10,
+        "totalPacientes": 25,
+        "consultorio": "CENTRO DENTAL TULADENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "RITA",
+        "apellido": "DE VERDU",
+        "edad": 37,
+        "pacientesSinCaries": 14,
+        "totalPacientes": 28,
+        "consultorio": "CENTRO DENTAL MARIDENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "JOSE ANGEL",
+        "apellido": "UGARTE",
+        "edad": 36,
+        "pacientesSinCaries": 20,
+        "totalPacientes": 25,
+        "consultorio": "CENTRO DENTAL TULADENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "MARIELA",
+        "apellido": "LUCENA",
+        "edad": 26,
+        "edificiosConstruidos": 16,
+        "edificiosPlanificados": 27,
+        "constructora": "CONSTRUCTORA LUZ ROJA",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "EVANGELINA",
+        "apellido": "HUERTAS",
+        "edad": 34,
+        "edificiosConstruidos": 6,
+        "edificiosPlanificados": 28,
+        "constructora": "CONSTRUCTORA LAPIZLAZULI",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "LAURA",
+        "apellido": "BAEZA",
+        "edad": 38,
+        "juiciosGanados": 19,
+        "juiciosParticipados": 27,
+        "notaria": "NOTARIA SAITAMA",
+        "tipo": "ABOGADO"
+    },
+    {
+        "nombre": "LISANDO",
+        "apellido": "CASAL",
+        "edad": 39,
+        "pacientesSinCaries": 9,
+        "totalPacientes": 27,
+        "consultorio": "CENTRO DENTAL MARIDENT",
+        "tipo": "DENTISTA"
+    },
+    {
+        "nombre": "FLOR",
+        "apellido": "GARAY",
+        "edad": 38,
+        "edificiosConstruidos": 17,
+        "edificiosPlanificados": 35,
+        "constructora": "CONSTRUCTORA ARISTOTELES",
+        "tipo": "INGENIERO"
+    },
+    {
+        "nombre": "RODRIGO",
+        "apellido": "ECHEVARRIA",
+        "edad": 38,
+        "edificiosConstruidos": 11,
+        "edificiosPlanificados": 31,
+        "constructora": "CONSTRUCTORA LAPIZLAZULI",
+        "tipo": "INGENIERO"
+    }
+]

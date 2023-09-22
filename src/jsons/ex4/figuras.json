@@ -1,0 +1,145 @@
+[
+    {
+        "colorRelleno": "MAGENTA",
+        "colorBorde": "BLANCO",
+        "grosorLinea": 2,
+        "lado": 9.04,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "AMARILLO",
+        "colorBorde": "BLANCO",
+        "grosorLinea": 8,
+        "radio": 13,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "NEGRO",
+        "colorBorde": "LIMA",
+        "grosorLinea": 6,
+        "lado1": 8.49,
+        "lado2": 10.47,
+        "lado3": 13.59,
+        "tipo": "TRIANGULO"
+    },
+    {
+        "colorRelleno": "CIAN",
+        "colorBorde": "BLANCO",
+        "grosorLinea": 10,
+        "lado1": 12.68,
+        "lado2": 14,
+        "lado3": 14.43,
+        "tipo": "TRIANGULO"
+    },
+    {
+        "colorRelleno": "PLATA",
+        "colorBorde": "ROJO",
+        "grosorLinea": 5,
+        "lado1": 10.37,
+        "lado2": 14.48,
+        "lado3": 10.63,
+        "tipo": "TRIANGULO"
+    },
+    {
+        "colorRelleno": "CIAN",
+        "colorBorde": "CIAN",
+        "grosorLinea": 6,
+        "lado": 7.25,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "ROJO",
+        "colorBorde": "AMARILLO",
+        "grosorLinea": 10,
+        "radio": 6.95,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "BLANCO",
+        "colorBorde": "NEGRO",
+        "grosorLinea": 2,
+        "radio": 5.4,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "GRIS",
+        "colorBorde": "CIAN",
+        "grosorLinea": 9,
+        "lado": 14.69,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "BLANCO",
+        "colorBorde": "LIMA",
+        "grosorLinea": 3,
+        "lado1": 8.81,
+        "lado2": 5.24,
+        "lado3": 13.74,
+        "tipo": "TRIANGULO"
+    },
+    {
+        "colorRelleno": "ROJO",
+        "colorBorde": "CIAN",
+        "grosorLinea": 10,
+        "lado": 10.01,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "LIMA",
+        "colorBorde": "AMARILLO",
+        "grosorLinea": 6,
+        "radio": 5.8,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "CIAN",
+        "colorBorde": "LIMA",
+        "grosorLinea": 5,
+        "radio": 8.32,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "ROJO",
+        "colorBorde": "BLANCO",
+        "grosorLinea": 4,
+        "lado": 8.32,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "AZUL",
+        "colorBorde": "LIMA",
+        "grosorLinea": 3,
+        "radio": 8.73,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "BLANCO",
+        "colorBorde": "CIAN",
+        "grosorLinea": 2,
+        "radio": 9.04,
+        "tipo": "CIRCULO"
+    },
+    {
+        "colorRelleno": "GRIS",
+        "colorBorde": "ROJO",
+        "grosorLinea": 9,
+        "lado": 6.52,
+        "tipo": "CUADRADO"
+    },
+    {
+        "colorRelleno": "GRIS",
+        "colorBorde": "ROJO",
+        "grosorLinea": 7,
+        "lado1": 14.52,
+        "lado2": 7.08,
+        "lado3": 6.06,
+        "tipo": "TRIANGULO"
+    },
+    {
+        "colorRelleno": "AZUL",
+        "colorBorde": "ROJO",
+        "grosorLinea": 8,
+        "lado": 13.24,
+        "tipo": "CUADRADO"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "ROJO",
+        "hexadecimal": "#FF0000"
+    },
+    {
+        "nombre": "AZUL",
+        "hexadecimal": "#0000FF"
+    },
+    {
+        "nombre": "AMARILLO",
+        "hexadecimal": "#FFFF00"
+    },
+    {
+        "nombre": "LIMA",
+        "hexadecimal": "#00FF00"
+    },
+    {
+        "nombre": "NEGRO",
+        "hexadecimal": "#000000"
+    },
+    {
+        "nombre": "CIAN",
+        "hexadecimal": "#00FFFF"
+    },
+    {
+        "nombre": "MAGENTA",
+        "hexadecimal": "#FF00FF"
+    },
+    {
+        "nombre": "PLATA",
+        "hexadecimal": "#C0C0C0"
+    },
+    {
+        "nombre": "GRIS",
+        "hexadecimal": "#808080"
+    },
+    {
+        "nombre": "BLANCO",
+        "hexadecimal": "#FFFFFF"
+    }
+]

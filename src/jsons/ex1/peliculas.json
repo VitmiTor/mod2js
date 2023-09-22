@@ -1,0 +1,135 @@
+[
+    {
+        "nombre": "BUSCANDO A NEMO",
+        "epoca": 2003,
+        "duracion": 203,
+        "genero": "TERROR",
+        "precioTicket": 20.23
+    },
+    {
+        "nombre": "CIUDAD DE DIOS",
+        "epoca": 2002,
+        "duracion": 118,
+        "genero": "TERROR",
+        "precioTicket": 11.14
+    },
+    {
+        "nombre": "HABLE CON ELLA",
+        "epoca": 2022,
+        "duracion": 210,
+        "genero": "ACCION",
+        "precioTicket": 16.97
+    },
+    {
+        "nombre": "EL SENOR DE LOS ANILLLOS",
+        "epoca": 2003,
+        "duracion": 201,
+        "genero": "TERROR",
+        "precioTicket": 22
+    },
+    {
+        "nombre": "KANDAHAR",
+        "epoca": 2001,
+        "duracion": 140,
+        "genero": "ACCION",
+        "precioTicket": 17.1
+    },
+    {
+        "nombre": "LA MIRADA DE ULISES",
+        "epoca": 1995,
+        "duracion": 146,
+        "genero": "COMEDIA",
+        "precioTicket": 7.53
+    },
+    {
+        "nombre": "CHUNKING EXPRESS",
+        "epoca": 1994,
+        "duracion": 191,
+        "genero": "COMEDIA",
+        "precioTicket": 13.9
+    },
+    {
+        "nombre": "DRUNKEN MASTER II",
+        "epoca": 1994,
+        "duracion": 179,
+        "genero": "ACCION",
+        "precioTicket": 11.41
+    },
+    {
+        "nombre": "PULP FICTION",
+        "epoca": 1994,
+        "duracion": 114,
+        "genero": "ACCION",
+        "precioTicket": 18.14
+    },
+    {
+        "nombre": "ADIOS A MI CONCUBINA",
+        "epoca": 1993,
+        "duracion": 184,
+        "genero": "TERROR",
+        "precioTicket": 6.43
+    },
+    {
+        "nombre": "LA LISTA DE SCHINDLER",
+        "epoca": 1993,
+        "duracion": 142,
+        "genero": "COMEDIA",
+        "precioTicket": 15.55
+    },
+    {
+        "nombre": "LEOLO",
+        "epoca": 1992,
+        "duracion": 135,
+        "genero": "TERROR",
+        "precioTicket": 20.39
+    },
+    {
+        "nombre": "SIN PERDON",
+        "epoca": 1992,
+        "duracion": 183,
+        "genero": "TERROR",
+        "precioTicket": 17.28
+    },
+    {
+        "nombre": "UNO DE LOS NUESTROS",
+        "epoca": 1990,
+        "duracion": 113,
+        "genero": "COMEDIA",
+        "precioTicket": 19.36
+    },
+    {
+        "nombre": "MUERTE ENTRE LAS FLORES",
+        "epoca": 1990,
+        "duracion": 214,
+        "genero": "COMEDIA",
+        "precioTicket": 14.15
+    },
+    {
+        "nombre": "EL DECALOGO",
+        "epoca": 1989,
+        "duracion": 103,
+        "genero": "ACCION",
+        "precioTicket": 20.04
+    },
+    {
+        "nombre": "NAKAYAN",
+        "epoca": 1987,
+        "duracion": 182,
+        "genero": "ACCION",
+        "precioTicket": 17.74
+    },
+    {
+        "nombre": "EL CODIGO DAVINCI",
+        "epoca": 1987,
+        "duracion": 192,
+        "genero": "TERROR",
+        "precioTicket": 12.15
+    },
+    {
+        "nombre": "ATLANTIS",
+        "epoca": 1987,
+        "duracion": 166,
+        "genero": "COMEDIA",
+        "precioTicket": 16.02
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "nombre": "SALMON",
+        "precio": 13.62,
+        "stock": 22,
+        "peso": 1.63,
+        "perecible": true,
+        "volumen": 2.662
+    },
+    {
+        "nombre": "JITOMATE",
+        "precio": 27.64,
+        "stock": 39,
+        "peso": 7.138,
+        "perecible": true,
+        "volumen": 0.343
+    },
+    {
+        "nombre": "HUEVO",
+        "precio": 67.24,
+        "stock": 59,
+        "peso": 7.952,
+        "perecible": true,
+        "volumen": 4.367
+    },
+    {
+        "nombre": "LECHE",
+        "precio": 76.01,
+        "stock": 64,
+        "peso": 5.384,
+        "perecible": false,
+        "volumen": 2.563
+    },
+    {
+        "nombre": "ESPARRAGOS",
+        "precio": 64.48,
+        "stock": 22,
+        "peso": 2.146,
+        "perecible": true,
+        "volumen": 3.346
+    },
+    {
+        "nombre": "MANZANA",
+        "precio": 58.71,
+        "stock": 14,
+        "peso": 8.868,
+        "perecible": false,
+        "volumen": 3.73
+    },
+    {
+        "nombre": "AVENA",
+        "precio": 1.96,
+        "stock": 89,
+        "peso": 8.95,
+        "perecible": false,
+        "volumen": 1.146
+    },
+    {
+        "nombre": "PALTA",
+        "precio": 30.52,
+        "stock": 76,
+        "peso": 5.066,
+        "perecible": true,
+        "volumen": 5.787
+    },
+    {
+        "nombre": "GASEOSA",
+        "precio": 91.5,
+        "stock": 69,
+        "peso": 8.4,
+        "perecible": true,
+        "volumen": 2.586
+    },
+    {
+        "nombre": "CEREAL",
+        "precio": 89.99,
+        "stock": 66,
+        "peso": 0.74,
+        "perecible": false,
+        "volumen": 2.841
+    },
+    {
+        "nombre": "PAN",
+        "precio": 45.04,
+        "stock": 30,
+        "peso": 5.915,
+        "perecible": false,
+        "volumen": 3.435
+    },
+    {
+        "nombre": "AVENA",
+        "precio": 80.66,
+        "stock": 41,
+        "peso": 2.68,
+        "perecible": false,
+        "volumen": 1.39
+    },
+    {
+        "nombre": "ARROZ",
+        "precio": 58.91,
+        "stock": 20,
+        "peso": 9.72,
+        "perecible": true,
+        "volumen": 6.591
+    },
+    {
+        "nombre": "HARINA",
+        "precio": 49.36,
+        "stock": 67,
+        "peso": 8.731,
+        "perecible": false,
+        "volumen": 4.677
+    },
+    {
+        "nombre": "AZUCAR",
+        "precio": 36.48,
+        "stock": 91,
+        "peso": 5.445,
+        "perecible": false,
+        "volumen": 2.019
+    },
+    {
+        "nombre": "PIMIENTA",
+        "precio": 86.09,
+        "stock": 93,
+        "peso": 1.9,
+        "perecible": false,
+        "volumen": 7.645
+    },
+    {
+        "nombre": "MIEL",
+        "precio": 49.72,
+        "stock": 52,
+        "peso": 4.408,
+        "perecible": false,
+        "volumen": 8.592
+    },
+    {
+        "nombre": "QUESO",
+        "precio": 79.96,
+        "stock": 29,
+        "peso": 1.641,
+        "perecible": false,
+        "volumen": 0.874
+    },
+    {
+        "nombre": "HUEVO",
+        "precio": 12.87,
+        "stock": 14,
+        "peso": 2.656,
+        "perecible": true,
+        "volumen": 4.502
+    },
+    {
+        "nombre": "PASTA",
+        "precio": 27.42,
+        "stock": 23,
+        "peso": 6.055,
+        "perecible": false,
+        "volumen": 6.17
+    },
+    {
+        "nombre": "MANTEQUILLA",
+        "precio": 65.22,
+        "stock": 59,
+        "peso": 7.811,
+        "perecible": true,
+        "volumen": 8.034
+    },
+    {
+        "nombre": "YOGUR",
+        "precio": 61.35,
+        "stock": 56,
+        "peso": 7.892,
+        "perecible": false,
+        "volumen": 3.249
+    }
+]

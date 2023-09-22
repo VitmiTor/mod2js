@@ -1,0 +1,55 @@
+{
+    "nombre": "Rodrigo Suarez",
+    "efectivo": true,
+    "dineroAbonado": 3000.0,
+    "listaProductos": [
+        {
+            "nombre": "SALMON",
+            "cantidad": 15
+        },
+        {
+            "nombre": "JITOMATE",
+            "cantidad": 50
+        },
+        {
+            "nombre": "HUEVO",
+            "cantidad": 21
+        },
+        {
+            "nombre": "LECHE",
+            "cantidad": 5
+        },
+        {
+            "nombre": "ESPARRAGOS",
+            "cantidad": 12
+        },
+        {
+            "nombre": "MANZANA",
+            "cantidad": 20
+        },
+        {
+            "nombre": "PAN",
+            "cantidad": 12
+        },
+        {
+            "nombre": "AVENA",
+            "cantidad": 3
+        },
+        {
+            "nombre": "ARROZ",
+            "cantidad": 21
+        },
+        {
+            "nombre": "PASTA",
+            "cantidad": 11
+        },
+        {
+            "nombre": "MANTEQUILLA",
+            "cantidad": 100
+        },
+        {
+            "nombre": "YOGUR",
+            "cantidad": 25
+        }
+    ]
+}

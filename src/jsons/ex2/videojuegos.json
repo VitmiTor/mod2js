@@ -1,0 +1,154 @@
+[
+    {
+        "nombre": "BLUE PROTOCOL",
+        "epoca": 2019,
+        "precio": 56.01,
+        "duracion": 13,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "BEYOND GOOD & EVIL 2",
+        "epoca": 2008,
+        "precio": 56.3,
+        "duracion": 26,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "STAR CITIZEN",
+        "epoca": 2001,
+        "precio": 57.87,
+        "duracion": 31,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "DEAD ISLAND 2",
+        "epoca": 2020,
+        "precio": 54.59,
+        "duracion": 37,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "THE LEGEND OF ZELDA",
+        "epoca": 2005,
+        "precio": 59.6,
+        "duracion": 27,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "METROID PRIME 4",
+        "epoca": 2012,
+        "precio": 63.91,
+        "duracion": 42,
+        "genero": "ACCION",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "GRANBLUE FANTASY: RELINK",
+        "epoca": 2012,
+        "precio": 56.86,
+        "duracion": 9,
+        "genero": "ACCION",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "HOGWARTS LEGACY",
+        "epoca": 2001,
+        "precio": 57.73,
+        "duracion": 60,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "HOLLOW KNIGHT: SILKSONG",
+        "epoca": 2012,
+        "precio": 57.33,
+        "duracion": 20,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "FINAL FANTASY XVI",
+        "epoca": 2013,
+        "precio": 54.25,
+        "duracion": 58,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "GOD OF WAR: RAGNAROK",
+        "epoca": 2012,
+        "precio": 54.55,
+        "duracion": 36,
+        "genero": "ACCION",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "ELDEN RING",
+        "epoca": 2001,
+        "precio": 55.53,
+        "duracion": 49,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "GRAND THEFT AUTO V",
+        "epoca": 2016,
+        "precio": 56.14,
+        "duracion": 43,
+        "genero": "TERROR",
+        "empresa": "XBOX"
+    },
+    {
+        "nombre": "THE CALLISTO PROTOCOL",
+        "epoca": 2005,
+        "precio": 50.42,
+        "duracion": 55,
+        "genero": "ACCION",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "THE WITCHER 3: WILD HUNT",
+        "epoca": 2004,
+        "precio": 50.58,
+        "duracion": 27,
+        "genero": "ACCION",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "ASSASSIN'S CREED VALHALLA",
+        "epoca": 2005,
+        "precio": 52.98,
+        "duracion": 18,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "HIGH ON LIFE",
+        "epoca": 2014,
+        "precio": 57.89,
+        "duracion": 11,
+        "genero": "COMEDIA",
+        "empresa": "NINTENDO"
+    },
+    {
+        "nombre": "MARIO BROS",
+        "epoca": 2019,
+        "precio": 58,
+        "duracion": 19,
+        "genero": "COMEDIA",
+        "empresa": "PLAY STATION"
+    },
+    {
+        "nombre": "VALHEIM",
+        "epoca": 2016,
+        "precio": 60.89,
+        "duracion": 11,
+        "genero": "COMEDIA",
+        "empresa": "XBOX"
+    }
+]
