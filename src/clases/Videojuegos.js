@@ -47,4 +47,7 @@ export class Videojuegos {
   get nombre() {
     return this.#nombre;
   }
+  get empresa() {
+    return this.#empresa;
+  }
 }
