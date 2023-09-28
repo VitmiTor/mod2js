@@ -1,8 +1,9 @@
+"use strict";
 import { Videojuegos } from "../clases/Videojuegos.js";
 import {
   ordenarAlfabeticamente,
   ordenarEmpresaArray,
-} from "../funciones/Parser.js";
+} from "../funciones/VideojuegosParser.js";
 import videojuegosJson from "../jsons/ex2/videojuegos.json" assert { type: "json" };
 
 const videojuegosArray = Videojuegos.crearArray(videojuegosJson);
