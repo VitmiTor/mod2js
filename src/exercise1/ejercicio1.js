@@ -1,10 +1,10 @@
 "use strict";
-import { Peliculas } from "../clases/Peliculas.js";
-import peliculasJson from "../jsons/ex1/peliculas.json" assert { type: "json" };
+import { Peliculas } from "../clases/Pelicula.js";
+import peliculasJson from "../exercise1/jsons/peliculas.json" assert { type: "json" };
 import {
   ordenarDuracionArray,
   ordenarGeneroArray,
-} from "../funciones/PeliculasParser.js";
+} from "../funciones/peliculasParser.js";
 
 const peliculaArray = Peliculas.crearArray(peliculasJson);
 const peliculaTerror = [];

@@ -1,5 +1,5 @@
 "use strict";
-export class Peliculas {
+export class Pelicula {
   #nombre;
   #epoca;
   #duracion;
@@ -13,24 +13,6 @@ export class Peliculas {
     this.#genero = genero;
     this.#precioTicket = precioTicket;
   }
-
-  static crearArray = (peliculasJson) => {
-    const peliculasArray = [];
-    peliculasJson.forEach((element) => {
-      peliculasArray.push(this.parsearPeliculas(element));
-    });
-    return peliculasArray;
-  };
-
-  static parsearPeliculas = (peliculaJson) => {
-    return new this(
-      peliculaJson["nombre"],
-      peliculaJson["epoca"],
-      peliculaJson["duracion"],
-      peliculaJson["genero"],
-      peliculaJson["precioTicket"]
-    );
-  };
 
   mostrarInformacion = () => {
     console.log(`Pelicula: ${this.#nombre}`);
