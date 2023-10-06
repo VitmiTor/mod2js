@@ -1,12 +1,9 @@
 "use strict";
-import { Videojuegos } from "../clases/Videojuegos.js";
-import {
-  ordenarAlfabeticamente,
-  ordenarEmpresaArray,
-} from "../funciones/VideojuegosParser.js";
-import videojuegosJson from "../jsons/ex2/videojuegos.json" assert { type: "json" };
+import videojuegosJson from "../exercise2/jsons/videojuegos.json" assert { type: "json" };
+import { crearArrayVideojuego } from "./parser/videojuegosParser.js";
+import { ordenarAlfabeticamente, ordenarEmpresaArray } from "./functions.js";
 
-const videojuegosArray = Videojuegos.crearArray(videojuegosJson);
+const videojuegosArray = crearArrayVideojuego(videojuegosJson);
 const nintendoArray = [];
 const xboxArray = [];
 const playStationArray = [];

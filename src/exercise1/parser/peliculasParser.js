@@ -1,7 +1,7 @@
 "use strict";
 import { Pelicula } from "../clases/Pelicula.js";
 
-export const crearArray = (peliculasJson) => {
+export const crearArrayPelicula = (peliculasJson) => {
   const peliculasArray = [];
   peliculasJson.forEach((element) => {
     peliculasArray.push(parsearPeliculas(element));

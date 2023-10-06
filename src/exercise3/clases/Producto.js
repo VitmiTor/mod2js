@@ -17,35 +17,6 @@ export class Producto {
     this.#volumen = volumen;
   }
 
-  static crearArray = (productosJson) => {
-    const productosArray = [];
-    productosJson.forEach((element) => {
-      productosArray.push(this.parsearProducto(element));
-    });
-    return productosArray;
-  };
-
-  static parsearProducto = (productosJson) => {
-    return new this(
-      productosJson["nombre"],
-      productosJson["precio"],
-      productosJson["stock"],
-      productosJson["peso"],
-      productosJson["perecible"],
-      productosJson["volumen"]
-    );
-  };
-
-  static crearMap = (arrayProductos) => {
-    const mapProducto = new Map();
-
-    arrayProductos.forEach((producto) => {
-      mapProducto.set(producto.nombre, producto);
-    });
-
-    return mapProducto;
-  };
-
   mostrarInformacion() {
     console.log(`${this.#nombre}`);
     console.log(`${this.#precio}`);
@@ -57,5 +28,13 @@ export class Producto {
 
   get nombre() {
     return this.#nombre;
+  }
+
+  get stock() {
+    return this.#stock;
+  }
+
+  get precio() {
+    return this.#precio;
   }
 }

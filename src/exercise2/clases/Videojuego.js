@@ -1,5 +1,5 @@
 "use strict";
-export class Videojuegos {
+export class Videojuego {
   #nombre;
   #epoca;
   #precio;
@@ -15,25 +15,6 @@ export class Videojuegos {
     this.#genero = genero;
     this.#empresa = empresa;
   }
-
-  static crearArray = (videojuegosJson) => {
-    const videojuegosArray = [];
-    videojuegosJson.forEach((element) => {
-      videojuegosArray.push(this.parsearVideojuegos(element));
-    });
-    return videojuegosArray;
-  };
-
-  static parsearVideojuegos = (videojuegosJson) => {
-    return new this(
-      videojuegosJson["nombre"],
-      videojuegosJson["epoca"],
-      videojuegosJson["precio"],
-      videojuegosJson["duracion"],
-      videojuegosJson["genero"],
-      videojuegosJson["empresa"]
-    );
-  };
 
   mostrarInformacion() {
     console.log(`${this.#nombre}`);
